@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TDocker\App1\bin\Debug\netcoreapp2.2\App1.deps.json
+C:\Users\Admin\source\repos\TDocker\App1\bin\Debug\netcoreapp2.2\App1.runtimeconfig.json
+C:\Users\Admin\source\repos\TDocker\App1\bin\Debug\netcoreapp2.2\App1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TDocker\App1\bin\Debug\netcoreapp2.2\App1.dll
+C:\Users\Admin\source\repos\TDocker\App1\bin\Debug\netcoreapp2.2\App1.pdb
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.dll
+C:\Users\Admin\source\repos\TDocker\App1\obj\Debug\netcoreapp2.2\App1.pdb
